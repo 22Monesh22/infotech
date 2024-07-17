@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Instagram-clone-main/Instagram-clone-main"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "maximize-main"
+	}
+}
